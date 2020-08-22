@@ -1,0 +1,15 @@
+- Thinking about the UI (wire-framing)
+- Functionality
+    - Add TODO_ITEM
+    - Delete TODO_ITEM
+    - Check task
+    - Total tasks
+- Data
+    - tasks - Array
+    - task - An object { done: true/false, text: 'Go to gym', id 
+    }
+- Functions (in code)
+    - addTodo
+    - deleteTodo
+    - checkTodo
+    - renderList
